@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KepsyIn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning computer science in the University of Poitiers
 - 📫 reach me with my email
 
 <!---
