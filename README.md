@@ -1,4 +1,4 @@
-# Yo! Moi c'est KepsyIn 👋
+# Hey! Moi c'est KepsyIn 👋
 
 ### A la recherche d'une opportunité en tant que développeur
 
