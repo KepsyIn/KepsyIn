@@ -21,38 +21,29 @@ I have a lot to learn but these are some of the languages, frameworks and tools 
 <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
 <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=ocaml" height="60" alt="ocaml logo"  />
 <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-<img width="12" />
 <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-<img width="12" />
 </div>
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony" height="60" alt="symfony logo"  />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="nestjs logo"  />
-  <img width="12" />
+<img src="https://skillicons.dev/icons?i=symfony" height="60" alt="symfony logo"  />
+<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+<img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+<img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+<img src="https://skillicons.dev/icons?i=express" height="60" alt="nestjs logo"  />
 </div>
 
 
 <div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="amazonwebservices logo"  />
-   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="amazonwebservices logo"  />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="amazonwebservices logo"  />
+<img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
 
