@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hey! I'm KepsyIn
+## 👋 Hey! I'm Mario
 
 📍 France | 🎓 Master's Degree in Computer Science
 
