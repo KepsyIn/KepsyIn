@@ -14,7 +14,7 @@ On this page you can find some of the project i made. If you any advice don't he
 
 ## Technical skills
 
-I have a lot to learn but these are some of the languages, frameworks and tools i used in my project :
+I leverage a diverse set of technologies to build robust applications, from low-level logic to modern web frameworks:
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
